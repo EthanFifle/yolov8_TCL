@@ -1,4 +1,7 @@
-# Machine Learning Project - EECS 4404
+# Waste classification
+
+Waste detection and classification using YOLOv8. Includes training notebooks, inference scripts and demo assets.
+
 **This project is part of a Machine Learning course (EECS 4404) at York University.**
 
 ## Team Members
